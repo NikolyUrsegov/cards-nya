@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cards-nya/static/css/main.f3b1cfcd.css",
+    "main.js": "/cards-nya/static/js/main.dba68266.js",
+    "static/js/787.64a3f69d.chunk.js": "/cards-nya/static/js/787.64a3f69d.chunk.js",
+    "index.html": "/cards-nya/index.html",
+    "main.f3b1cfcd.css.map": "/cards-nya/static/css/main.f3b1cfcd.css.map",
+    "main.dba68266.js.map": "/cards-nya/static/js/main.dba68266.js.map",
+    "787.64a3f69d.chunk.js.map": "/cards-nya/static/js/787.64a3f69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b1cfcd.css",
+    "static/js/main.dba68266.js"
+  ]
+}
