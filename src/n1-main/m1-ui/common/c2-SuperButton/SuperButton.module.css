@@ -1,0 +1,16 @@
+.default {
+    height: 30px;
+    min-width: 30px;
+    background: #f1dcd5;
+    cursor: pointer;
+    border-radius: 25px;
+    margin: 10px 10px 10px 0;
+}
+
+.red {
+    background: red; height: 30px;
+    min-width: 30px;
+    cursor: pointer;
+    border-radius: 25px;
+    margin: 10px 10px 10px 0;
+}

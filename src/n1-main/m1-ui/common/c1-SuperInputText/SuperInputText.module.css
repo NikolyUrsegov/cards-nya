@@ -1,0 +1,28 @@
+.input {
+    outline: none;
+
+}
+.superInput {
+    min-width: 150px;
+    height: 30px;
+    padding-left: 20px;
+    border-radius: 25px ;
+    background: #adde52;
+    outline: none;
+    margin: 10px 0 10px 10px;
+
+}
+
+.errorInput {
+    min-width: 150px;
+    height: 30px;
+    padding-left: 20px;
+    border-radius: 25px ;
+    border: 3px solid firebrick;
+    background: red;
+    margin: 10px 0 10px 10px;
+}
+
+.error {
+    color: red;
+}
